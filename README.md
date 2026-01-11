@@ -1,4 +1,4 @@
-# ionic-3-app
+# ionic3-legacy-demo
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 
@@ -19,8 +19,8 @@ An Ionic project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/ionic-3-app.git
-cd ionic-3-app
+git clone https://github.com/amitdubeyup/ionic3-legacy-demo.git
+cd ionic3-legacy-demo
 
 # Install dependencies
 npm install
@@ -55,7 +55,7 @@ npm run build
 ## 📁 Project Structure
 
 ```
-ionic-3-app/
+ionic3-legacy-demo/
 ├── src/
 ├── package.json
 ├── tsconfig.json
